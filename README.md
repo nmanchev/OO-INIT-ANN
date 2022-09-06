@@ -1,3 +1,5 @@
+# OO-INIT-ANN
+
 Code to reproduce the experiments presented in "On the biological plausibility of orthogonal initialisation for solving gradient instability in deep neural networks", N. Manchev, M. Spratling, 2022, King's College London
 
 * SRNN.py -- Trains a Simple RNN with orthogonal initialisation/penalty on the synthetic problems
